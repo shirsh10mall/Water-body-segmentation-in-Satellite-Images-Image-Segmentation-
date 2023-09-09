@@ -6,11 +6,15 @@ Dataset: https://www.kaggle.com/datasets/shirshmall/water-body-segmentation-in-s
 #### **Description:**
 This project centres around the precise delineation of water bodies within satellite images captured by the Sentinel-2 Satellite. Each image is accompanied by a monochromatic mask in which areas of water are depicted in white, while non-water regions are represented in black. The generation of these masks involved the computation of the Normalized Water Difference Index (NWDI), a metric conventionally utilized for identifying and quantifying vegetation in satellite images. However, a more stringent threshold was employed to effectively identify water bodies.
 
-Sample 1:
+##### Sample 1:
+
+
 ![image](https://github.com/shirsh10mall/Water-body-segmentation-in-Satellite-Images-Image-Segmentation-/assets/87264071/86f35a2a-990a-43a4-a9b7-bbfaf2daf68f)
 ![image](https://github.com/shirsh10mall/Water-body-segmentation-in-Satellite-Images-Image-Segmentation-/assets/87264071/b8cf1ea1-fc03-45b3-a12f-f83ce4b31ad4)
 
-Sample 2: 
+##### Sample 2: 
+
+
 ![image](https://github.com/shirsh10mall/Water-body-segmentation-in-Satellite-Images-Image-Segmentation-/assets/87264071/847795a7-a212-4839-86ab-46037f830d39)
 ![image](https://github.com/shirsh10mall/Water-body-segmentation-in-Satellite-Images-Image-Segmentation-/assets/87264071/a80e9394-fe9b-4525-a44b-cdb0ffd1500c)
 
@@ -28,11 +32,10 @@ The primary objective of this project is to perform accurate segmentation of wat
 
 #### **Results:**
 
-Upon model convergence, the project achieved a commendable IOU score of 0.75. This metric signifies the substantial alignment between the predicted and actual water body segments. The results substantiate the effectiveness of the custom-built U-Net architecture in accurately segmenting water bodies from Sentinel-2 satellite images
+Upon model convergence, the project achieved a commendable IOU score of 0.97 on both the validation and testing datasets. This metric signifies the substantial alignment between the predicted and actual water body segments. The results substantiate the effectiveness of the custom-built U-Net architecture in accurately segmenting water bodies from Sentinel-2 satellite images.
 
 
-![image](https://github.com/shirsh10mall/Water-body-segmentation-in-Satellite-Images-Image-Segmentation-/assets/87264071/6cb82d90-118d-4d17-abb7-6060d3dae1fa)
-![image](https://github.com/shirsh10mall/Water-body-segmentation-in-Satellite-Images-Image-Segmentation-/assets/87264071/d72fbad3-2bf4-4ce0-9ec5-0edc92aef9ad)
+
 
 
 #### **Significance:**
