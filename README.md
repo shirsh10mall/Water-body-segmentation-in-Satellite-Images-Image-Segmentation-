@@ -35,7 +35,14 @@ The primary objective of this project is to perform accurate segmentation of wat
 Upon model convergence, the project achieved a commendable IOU score of 0.97 on both the validation and testing datasets. This metric signifies the substantial alignment between the predicted and actual water body segments. The results substantiate the effectiveness of the custom-built U-Net architecture in accurately segmenting water bodies from Sentinel-2 satellite images.
 
 
+#### Sample Results:
 
+![image](https://github.com/shirsh10mall/Water-body-segmentation-in-Satellite-Images-Image-Segmentation-/assets/87264071/3bec60e1-6c9a-4ddb-a2b1-b57dd02fafdd) <br>
+![image](https://github.com/shirsh10mall/Water-body-segmentation-in-Satellite-Images-Image-Segmentation-/assets/87264071/01218225-01c1-470d-af4d-aad87486daf6) <br>
+![image](https://github.com/shirsh10mall/Water-body-segmentation-in-Satellite-Images-Image-Segmentation-/assets/87264071/2e00333c-6a96-487e-846a-46102d96deda) <br>
+![image](https://github.com/shirsh10mall/Water-body-segmentation-in-Satellite-Images-Image-Segmentation-/assets/87264071/e375f19e-e655-4ef7-9278-b16c4f74c002) <br>
+![image](https://github.com/shirsh10mall/Water-body-segmentation-in-Satellite-Images-Image-Segmentation-/assets/87264071/e5ec5e8c-9cb5-4bc1-8b0a-e1888d8c4e53) <br>
+![image](https://github.com/shirsh10mall/Water-body-segmentation-in-Satellite-Images-Image-Segmentation-/assets/87264071/3abea2b0-193b-4a00-80a4-2eab856b0579) <br>
 
 
 #### **Significance:**
